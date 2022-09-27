@@ -1,4 +1,4 @@
-package com.java.api.users.entity;
+package com.lab.api.users.entity;
 
 import javax.persistence.*;
 

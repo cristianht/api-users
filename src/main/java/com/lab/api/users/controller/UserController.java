@@ -1,7 +1,7 @@
-package com.java.api.users.controller;
+package com.lab.api.users.controller;
 
-import com.java.api.users.entity.User;
-import com.java.api.users.repository.UserRepository;
+import com.lab.api.users.entity.User;
+import com.lab.api.users.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

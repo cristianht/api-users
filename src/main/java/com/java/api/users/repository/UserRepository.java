@@ -1,6 +1,6 @@
-package com.neoris.api.users.repository;
+package com.java.api.users.repository;
 
-import com.neoris.api.users.entity.User;
+import com.java.api.users.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

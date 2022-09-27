@@ -1,4 +1,4 @@
-package com.neoris.api.users;
+package com.java.api.users;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

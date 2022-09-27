@@ -1,7 +1,7 @@
-package com.neoris.api.users.controller;
+package com.java.api.users.controller;
 
-import com.neoris.api.users.entity.User;
-import com.neoris.api.users.repository.UserRepository;
+import com.java.api.users.entity.User;
+import com.java.api.users.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

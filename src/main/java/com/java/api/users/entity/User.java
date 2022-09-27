@@ -1,4 +1,4 @@
-package com.neoris.api.users.entity;
+package com.java.api.users.entity;
 
 import javax.persistence.*;
 
